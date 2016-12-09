@@ -1,0 +1,4 @@
+The difference between an object and a variable is, an object is like a person while a variable is a reference to a container for a primative int, float,etc...
+Difference between an object and a class is an object is an instance of a class,and a class is a general concept.
+The new operator instantiates a new object by allocating memory for it. new requires a single argument: a 
+constructor method for the object to be created. The constructor method is responsible for initializing the new object. 
